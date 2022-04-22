@@ -40,7 +40,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 # **Contact**
 
-### Renan Oliveira - **renanlido@yahoo.com.br**
+### Felipe alvesn - **felipe.alvesnn@gmail.com**
 
 [Github](https://github.com/renanlido) - **https://github.com/renanlido** </br>
 [Linkedin](https://www.linkedin.com/in/renanlido/) - **https://www.linkedin.com/in/renanlido/**
